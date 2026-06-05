@@ -30,7 +30,7 @@ Repositorio oficial para la entrega del **Primer Parcial** de la cursada de Prog
 ### 📊 Modelado (UML)
 El diseño de la solución está basado en el siguiente diagrama de clases, realizado con **UML Lettino**:
 
-![Diagrama UML](. /diagrama_uml.png) 
+![Diagrama UML](. /Diagram 2026-06-05 17-45-38.png) 
 
 ---
 
